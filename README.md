@@ -1,6 +1,6 @@
 # Chest X-Ray Anomaly Detection
 
-A deep learning API for classifying chest X-ray images into 5 respiratory disease categories using a fine-tuned ResNet50 model trained on the Harvard Dataverse dataset.
+A deep learning API for classifying chest X-ray images into 5 respiratory disease categories using a fine-tuned ResNet50 model trained on the Chest X-Ray Dataset for Respiratory Disease Classification dataset available on Harvard Dataverse.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.3-orange)
