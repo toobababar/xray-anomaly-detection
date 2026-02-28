@@ -1,0 +1,23 @@
+# Training files — not needed in Docker
+train.py
+evaluate.py
+export_onnx.py
+dataset.py
+scripts/
+data/
+
+# Development files
+.venv/
+__pycache__/
+*.pyc
+.env
+main.ipynb
+uv.lock
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Docs
+README.md

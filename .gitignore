@@ -1,0 +1,6 @@
+data/*.npz
+models/*.onnx
+__pycache__/
+.env
+.venv/
+*.pyc
