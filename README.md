@@ -6,6 +6,7 @@ A deep learning API for classifying chest X-ray images into 5 respiratory diseas
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.3-orange)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-green)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/toobababar/xray-anomaly-detection/blob/main/main.ipynb)
 
 ## Classes
 
