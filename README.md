@@ -172,7 +172,41 @@ docker run -p 8000:8000 chest-xray-classifier
 ## Dataset
 
 Chest X-Ray Dataset for Respiratory Disease Classification
-Source: [Harvard Dataverse][(https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FD8BEZ)]
+This project uses the Chest X-Ray Dataset for Respiratory Disease Classification, a publicly available multi-class chest X-ray dataset containing five categories:
+COVID-19
+Pneumonia
+Tuberculosis
+Lung Opacity
+Normal
+
+The dataset is hosted on Harvard Dataverse and was published in 2021.
+
+DOI: https://doi.org/10.7910/DVN/WNQ3GI
+
+Version Used: V5
+
+⚠️ This repository does not redistribute the dataset.
+Please download it directly from the official source:
+https://doi.org/10.7910/DVN/WNQ3GI
+
+---
+## Citation
+
+If you use this repository or the dataset in your research, please cite:
+
+Basu, A., Das, S., Ghosh, S., Mullick, S., Gupta, A., & Das, S. (2021). Chest X-Ray Dataset for Respiratory Disease Classification (V5) [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/WNQ3GI
+
+# BibTeX
+
+@data{DVN/WNQ3GI_2021,
+author = {Basu, Arkaprabha and Das, Sourav and Ghosh, Susmita and Mullick, Sankha and Gupta, Avisek and Das, Swagatam},
+publisher = {Harvard Dataverse},
+title = {{Chest X-Ray Dataset for Respiratory Disease Classification}},
+year = {2021},
+version = {V5},
+doi = {10.7910/DVN/WNQ3GI},
+url = {https://doi.org/10.7910/DVN/WNQ3GI}
+}
 
 ---
 
