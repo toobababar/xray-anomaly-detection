@@ -196,8 +196,9 @@ If you use this repository or the dataset in your research, please cite:
 
 Basu, A., Das, S., Ghosh, S., Mullick, S., Gupta, A., & Das, S. (2021). Chest X-Ray Dataset for Respiratory Disease Classification (V5) [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/WNQ3GI
 
-# BibTeX
+### BibTeX
 
+```bibtex
 @data{DVN/WNQ3GI_2021,
 author = {Basu, Arkaprabha and Das, Sourav and Ghosh, Susmita and Mullick, Sankha and Gupta, Avisek and Das, Swagatam},
 publisher = {Harvard Dataverse},
@@ -207,7 +208,7 @@ version = {V5},
 doi = {10.7910/DVN/WNQ3GI},
 url = {https://doi.org/10.7910/DVN/WNQ3GI}
 }
-
+```
 ---
 
 ## License
