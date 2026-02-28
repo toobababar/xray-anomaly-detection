@@ -172,7 +172,7 @@ docker run -p 8000:8000 chest-xray-classifier
 ## Dataset
 
 Chest X-Ray Dataset for Respiratory Disease Classification
-Source: [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FD8BEZ)
+Source: [Harvard Dataverse][(https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FD8BEZ)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WNQ3GI&version=5.1)
 
 ---
 
